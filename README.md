@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AASAWARI-POKALE/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/AASAWARI-POKALE/Leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/AASAWARI-POKALE/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AASAWARI-POKALE/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AASAWARI-POKALE/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
@@ -39,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AASAWARI-POKALE/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AASAWARI-POKALE/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AASAWARI-POKALE/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AASAWARI-POKALE/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
