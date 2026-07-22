@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AASAWARI-POKALE/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AASAWARI-POKALE/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AASAWARI-POKALE/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/AASAWARI-POKALE/Leetcode/tree/master/0118-pascals-triangle) |
 | [0560-subarray-sum-equals-k](https://github.com/AASAWARI-POKALE/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/AASAWARI-POKALE/Leetcode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/AASAWARI-POKALE/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
